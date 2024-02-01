@@ -9,7 +9,7 @@ include('header.php');
 <div id="popup">
   <div class="popup-content">
     <div class="popup-header">
-      <h2 >Discount</h2>
+      <h2 >Tip Top Balloon</h2>
       <button class="popup-close">&times;</button>
     </div>
     <div class="popup-body">

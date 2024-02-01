@@ -15,7 +15,7 @@
       </div>
       <div class="col-md-6 col-lg-3 mt-4">
         <div class="img-box">
-          <img  width="100%" height="300px" src="images/service-img/01.jpeg" class="" alt="">
+          <img  width="100%" height="300px" src="images/service-img/01birthday.jpg" class="" alt="">
         </div>
       </div>
       <div class="col-md-6 col-lg-3 mt-4">
@@ -35,7 +35,7 @@
       </div>
       <div class="col-md-6 col-lg-3 mt-4">
         <div class="img-box">
-          <img  width="100%" height="300px" src="images/service-img/01.jpeg" class="" alt="">
+          <img  width="100%" height="300px" src="images/service-img/01birthday.jpg" class="" alt="">
         </div>
       </div>
       <div class="col-md-6 col-lg-3 mt-4">
@@ -58,7 +58,7 @@
         <img width="100%" height="300px" src="images/gallery/3.jpg" class="" alt="4">
       </div>
     </div>
-    <div class="col-md-6 mt-4">
+    <div class="col-md-6">
       <div class="img-box">
         <img width="100%" height="300px"  src="images/gallery/party4.jpeg" class="" alt="3">
       </div>
