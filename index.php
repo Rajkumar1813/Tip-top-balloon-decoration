@@ -13,7 +13,7 @@ include('header.php');
       <button class="popup-close">&times;</button>
     </div>
     <div class="popup-body">
-      <img src="https://img.freepik.com/premium-vector/mega-sale-discount-banner-set-promotion-with-yellow-background_497837-702.jpg" alt="Popup Image" class="popup-image">
+      <img src="./images/banner.jpg" alt="Popup Image" class="popup-image">
     </div>
   </div>
 </div>
