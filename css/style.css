@@ -343,7 +343,7 @@ a:focus {
 .why_section {
   text-align: center;
   color: #ffffff;
-  background-image: url(../images/bg-img.jpg);
+  background-image: url(../images/balloon-bnr.jpg);
   background-size: cover;
   position: relative;
 }
@@ -370,24 +370,26 @@ a:focus {
 
 .why_section h2 {
   font-weight: bold;
+  color: #000000;
 }
 
 .why_section p {
+  color: #000000;
   margin: 60px 0;
 }
 
 .why_section a {
   display: inline-block;
   padding: 10px 55px;
-  background-color: #ffffff;
-  border: 1px solid #ffffff;
-  color: #e1603a;
+  background-color: #227DF3;
+  border: 1px solid #000000;
+  color: #000000;
   border-radius: 30px;
 }
 
 .why_section a:hover {
   background-color: transparent;
-  color: #ffffff;
+  color: #000000;
 }
 
 

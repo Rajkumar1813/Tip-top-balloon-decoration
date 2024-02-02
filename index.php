@@ -131,7 +131,7 @@ include('header.php');
       <div class="col-md-5 col-xl-5">
         <div class="detail_box">
           <div class="heading_container justify-content-end">
-            <h2 class=" pr-5" >About Tip Top Balloon</h2>
+            <h2 class="pr-5" >About Tip Top Balloon</h2>
           </div>
           <p class="text-start text-left">At Tip Top Balloon, we're passionate about transforming ordinary events into extraordinary experiences. With our extensive expertise and creative flair, we specialize in crafting mesmerizing balloon arrangements that add a touch of magic to every celebration.
             Whether it's a birthday bash, wedding reception, corporate event, or any special occasion, we bring innovation and imagination to every project. Our commitment is to go beyond expectations, offering personalized and unforgettable balloon decorations that turn moments into cherished memories.</p>
